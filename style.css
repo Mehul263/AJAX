@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    padding: 10%;
+    background: papayawhip;
+}
+
+input{
+    width: 400%;
+    height: 30px;
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    border: 2px solid blue;
+    background: pink;
+    border-radius: 10px;
+    font-size: 20px;
+}
